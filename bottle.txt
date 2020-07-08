@@ -1,0 +1,7 @@
+Class :
+Nalgene
+Attributes :
+lidType
+capacity
+color
+mouthType
